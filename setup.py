@@ -3,7 +3,6 @@
 from distutils.core import setup
 
 import os, sys
-reload(sys).setdefaultencoding("UTF-8")
 
 def read(fname):
     try:
